@@ -48,7 +48,7 @@
     "zod": "^3.11.6"
   },
   "scripts": {
-    "Start": "node index.js"
+    "start": "node index.js"
   },
   "author": "",
   "license": "ISC"
